@@ -1,8 +1,10 @@
 {
-  "name": "sass-url-resolver",
+  "name": "gulp-css-url-resolver",
   "description": "A gulp stream to resolve and replace CSS imports to public paths",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/ofertorio/gulp-css-url-resolver",
+  "author": "Matheus Giovani <matheus@ad3com.com.br>",
   "license": "MIT",
   "dependencies": {
     "file-type": "^16.5.3",
