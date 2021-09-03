@@ -1,0 +1,11 @@
+{
+  "name": "sass-url-resolver",
+  "description": "A gulp stream to resolve and replace CSS imports to public paths",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "file-type": "^16.5.3",
+    "murmur2": "^1.0.2"
+  }
+}
